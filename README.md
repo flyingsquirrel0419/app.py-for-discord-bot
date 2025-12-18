@@ -103,7 +103,7 @@ intents.message_content = True
 ## 7. 실행 방법
 
 ```bash
-python bot.py
+python app.py
 ```
 
 실행 시 콘솔 출력 예:
